@@ -1,0 +1,25 @@
+.active {
+    background-color: black;
+}
+.brand-logo {
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.topbar {
+    margin-right: 50px;
+}
+.toptext{
+    font-size: 2.25em !important;
+    font-family: 'Pompiere', cursive;
+}
+.soon {
+    font-family: 'Asap', sans-serif;
+    text-align: center;
+    background-color: lightskyblue;
+    border: 4px groove #333333;
+    margin: 50px;
+}
+.fgp, .fgt {
+    display: flex;
+    justify-content: space-around;
+}
